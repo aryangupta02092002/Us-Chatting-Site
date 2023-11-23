@@ -52,8 +52,10 @@ To run this application locally, follow these steps:
 
 ## Screenshots
 
-![Chat App Screenshot 1](?raw=true)
-![Chat App Screenshot 2](?raw=true)
+![Chat App Screenshot 1](https://github.com/aryangupta02092002/Us-Chatting-Site/blob/f1e930df2574448302284d1e98ebe5555c9b787b/screenshots/Us-%20Chatting%20App%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%2011_23_2023%201_34_08%20PM.png?raw=true)
+![Chat App Screenshot 2](https://github.com/aryangupta02092002/Us-Chatting-Site/blob/f1e930df2574448302284d1e98ebe5555c9b787b/screenshots/Us-%20Chatting%20App%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%2011_23_2023%201_34_20%20PM.png?raw=true)
+![Chat App Screenshot 3](https://github.com/aryangupta02092002/Us-Chatting-Site/blob/f1e930df2574448302284d1e98ebe5555c9b787b/screenshots/Us-%20Chatting%20App%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%2011_23_2023%201_36_30%20PM.png?raw=true)
+![Chat App Screenshot 4](https://github.com/aryangupta02092002/Us-Chatting-Site/blob/f1e930df2574448302284d1e98ebe5555c9b787b/screenshots/Us-%20Chatting%20App%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%2011_23_2023%201_34_44%20PM.png?raw=true)
 
 ## Contributing
 
